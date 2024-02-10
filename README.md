@@ -35,11 +35,11 @@
 
 ## 🌐 Socials
 <a href="https://gokhul.bio.link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igokhul" height="30" width="40" /></a>
-<a href="https://twitter.com/igokhul" target="blank"><img align="center" src="https://github.com/igokhul/igokhul/blob/master/src/images/icons/Social/twitter.svg" alt="igokhul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/igokhul" target="blank"><img align="center" src="data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox%3D%220%200%20128%20128%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Cg%20id%3D%22original%22%3E%3Cpath%20fill%3D%22%230076b2%22%20d%3D%22M116%2C3H12a8.91%2C8.91%2C0%2C0%2C0-9%2C8.8V116.22A8.91%2C8.91%2C0%2C0%2C0%2C12%2C125H116a8.93%2C8.93%2C0%2C0%2C0%2C9-8.81V11.77A8.93%2C8.93%2C0%2C0%2C0%2C116%2C3Z%22%3E%3C%2Fpath%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M21.06%2C48.73H39.17V107H21.06Zm9.06-29a10.5%2C10.5%2C0%2C1%2C1-10.5%2C10.49%2C10.5%2C10.5%2C0%2C0%2C1%2C10.5-10.49%22%3E%3C%2Fpath%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22M50.53%2C48.73H67.89v8h.24c2.42-4.58%2C8.32-9.41%2C17.13-9.41C103.6%2C47.28%2C107%2C59.35%2C107%2C75v32H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87%2C7.36-10.87%2C15V107H50.53Z%22%3E%3C%2Fpath%3E%3C%2Fg%3E%0A%3C%2Fsvg%3E" alt="igokhul" height="30" width="40" /></a>
-<a href="https://hashnode.com/@gokhul" target="blank"><img align="center" src="https://github.com/igokhul/igokhul/blob/master/src/images/icons/Social/hashnode.svg" alt="@gokhul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/igokhul" target="blank"><img align="center" src="https://github.com/igokhul/igokhul/blob/master/src/images/icons/Social/leet-code.svg" alt="igokhul" height="30" width="40" /></a>
-<a href="/https://qubesx.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://github.com/igokhul/igokhul/blob/master/src/images/icons/Social/rss.svg" alt="https://gokhul.hashnode.dev/rss.xml" height="30" width="40" /></a>
+<a href="https://twitter.com/igokhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igokhul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/igokhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igokhul" height="30" width="40" /></a>
+<a href="https://hashnode.com/@gokhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gokhul" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/igokhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="igokhul" height="30" width="40" /></a>
+<a href="/https://qubesx.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://qubesx.hashnode.dev/rss.xml" height="30" width="40" /></a>
 
 ---
 
