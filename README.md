@@ -34,7 +34,7 @@
 ---
 
 ## 🌐 Socials
-<a href="https://gokhul.bio.link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igokhul" height="30" width="40" /></a>
+<a href="https://gokhul.bio.link" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726056.png" alt="igokhul" height="30" width="40" /></a>
 <a href="https://twitter.com/igokhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igokhul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/igokhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igokhul" height="30" width="40" /></a>
 <a href="https://hashnode.com/@gokhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gokhul" height="30" width="40" /></a>
