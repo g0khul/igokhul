@@ -1,4 +1,4 @@
-
+<!-- 
 <h2 align="center"> SDE | Tech Writer | Open Source </h3>
 
 
@@ -7,7 +7,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=igokhul&icon=5&color=12 )](https://visitcount.itsvg.in )<br>
 
-</a>
+</a> -->
 
 
 # 💫 About Me
